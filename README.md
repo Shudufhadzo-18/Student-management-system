@@ -1,9 +1,5 @@
-# Student-management-system
-Student Management System is a web-based application developed using ASP.NET Core MVC that helps academic institutions efficiently manage student data, academic performance, and operational tasks
-
 
 # 🎓 Student Management System — ASP.NET Core MVC
-
 A full-featured web application for managing student records, academic activities, and performance analytics. Built using **ASP.NET Core MVC**, **Entity Framework**, and **Bootstrap 5**, with a fully integrated B2C e-commerce module.
 
 ---
